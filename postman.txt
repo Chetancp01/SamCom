@@ -1,0 +1,25 @@
+//user add(http://localhost:2000/api/v1/userAdd)
+{
+    "name" : "Sanket",
+    "surname" : "Patel",
+    "email" : "sanket@gmail.com",
+    "phone" : 9601145781,
+    "location" : {
+        "latitude" : "7435557",
+        "lognitude" : "23537442"
+    }
+}
+
+//vehicle add (http://localhost:2000/api/v1/vehicleAdd);
+{
+    "vehicle_name" : "splender",
+    "vehicle_brand" : "Hero",
+    "vehicle_number" : "GJ5BH4484"
+}
+
+//add vehicle ownership (http://localhost:2000/api/v1/owneAdd)
+{
+    "vahicle" : "61b9b97ac07a7e1e2b56e322",
+    "user" : "61b9b7ed1c4a374923a73bd9"
+}
+
